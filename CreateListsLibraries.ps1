@@ -1,5 +1,5 @@
 # modify URL for target site
-Connect-PnPOnline -Url https://rjgmagenic.sharepoint.com/sites/xxxx
+Connect-PnPOnline -Url https://xxxx.sharepoint.com/sites/xxxx
 
 
 $list_url = "APApprovers"
