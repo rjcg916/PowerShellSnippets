@@ -1,6 +1,6 @@
 # modify URL for target site
-#Connect-PnPOnline -Url https://rjgmagenic.sharepoint.com/sites/BenefitJournalEntryPortal
-Connect-PnPOnline -Url https://wwpcis.sharepoint.com/sites/BenefitJournalEntryPortal
+Connect-PnPOnline -Url https://rjgmagenic.sharepoint.com/sites/xxxx
+
 
 $list_url = "APApprovers"
 $list_title = "AP Approvers"
